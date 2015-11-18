@@ -1,3 +1,4 @@
 # libfreenect2Cinder
 
-libfreenect2 example for Cinder.
+Cinder Example Kinect2
+Simple usage of Kinect v2 device using the libfreenect2 library.
